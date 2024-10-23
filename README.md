@@ -12,7 +12,7 @@ GhostNetGuard-NG is an advanced network management tool designed to control and 
 - 🔧 **Real-time Updates:** Dynamic updates of available Wi-Fi interfaces and live network details.
 
 ## 📷 Screenshot
-![Screenshot](./screenshot.png)
+![Screenshot](./net_screen.png)
 
 ## 🛠️ Requirements
 Before running **GhostNetGuard-NG**, ensure you have the following dependencies installed:
